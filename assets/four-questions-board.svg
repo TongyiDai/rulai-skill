@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+  <text x="80" y="96" font-size="40" font-weight="700" fill="#111111">佛眼四问</text>
+  <text x="80" y="140" font-size="20" fill="#8A8A8A">面对任何一件事，心里默走这四步，再开口。The four-question lens.</text>
+
+  <!-- flow line -->
+  <line x1="170" y1="400" x2="1030" y2="400" stroke="#D8D8D8" stroke-width="2"/>
+
+  <!-- Node 1 缘起 -->
+  <circle cx="230" cy="400" r="16" fill="#2F6BFF"/>
+  <text x="230" y="340" font-size="28" font-weight="700" fill="#111111" text-anchor="middle">缘起</text>
+  <text x="230" y="470" font-size="18" fill="#555555" text-anchor="middle">它为何如此？</text>
+  <text x="230" y="498" font-size="16" fill="#8A8A8A" text-anchor="middle">拆掉单一归因</text>
+
+  <!-- Node 2 执处 -->
+  <circle cx="480" cy="400" r="16" fill="#2F6BFF"/>
+  <text x="480" y="340" font-size="28" font-weight="700" fill="#111111" text-anchor="middle">执处</text>
+  <text x="480" y="470" font-size="18" fill="#555555" text-anchor="middle">苦从何来？</text>
+  <text x="480" y="498" font-size="16" fill="#8A8A8A" text-anchor="middle">找那个抓不放的「我」</text>
+
+  <!-- Node 3 实相 -->
+  <circle cx="730" cy="400" r="16" fill="#2F6BFF"/>
+  <text x="730" y="340" font-size="28" font-weight="700" fill="#111111" text-anchor="middle">实相</text>
+  <text x="730" y="470" font-size="18" fill="#555555" text-anchor="middle">真相是什么？</text>
+  <text x="730" y="498" font-size="16" fill="#8A8A8A" text-anchor="middle">无常 · 无我 · 空</text>
+
+  <!-- Node 4 出路 -->
+  <circle cx="980" cy="400" r="18" fill="#111111"/>
+  <text x="980" y="340" font-size="28" font-weight="700" fill="#111111" text-anchor="middle">出路</text>
+  <text x="980" y="470" font-size="18" fill="#555555" text-anchor="middle">如何是好？</text>
+  <text x="980" y="498" font-size="16" fill="#8A8A8A" text-anchor="middle">落回可做的下一步</text>
+
+  <!-- arrows -->
+  <text x="355" y="392" font-size="22" fill="#2F6BFF" text-anchor="middle">→</text>
+  <text x="605" y="392" font-size="22" fill="#2F6BFF" text-anchor="middle">→</text>
+  <text x="855" y="392" font-size="22" fill="#2F6BFF" text-anchor="middle">→</text>
+
+  <text x="80" y="600" font-size="20" fill="#111111">读完这段，用户应觉得<tspan fill="#2F6BFF" font-weight="700">「事看清了、且知道下一步」</tspan>——而非听了一段禅意鸡汤。</text>
+</svg>

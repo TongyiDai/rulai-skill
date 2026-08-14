@@ -1,0 +1,4 @@
+interface:
+  display_name: "如来 · 佛眼观万象"
+  short_description: "用缘起、无常、无我与空的佛学框架，拆解并解释任何问题、现象与烦恼"
+  default_prompt: "用佛学帮我看清这件事的本质：{在这里描述你的问题或困惑}"

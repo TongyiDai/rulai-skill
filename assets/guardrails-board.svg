@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+  <text x="80" y="96" font-size="40" font-weight="700" fill="#111111">硬边界：安顿真人 &gt; 讲义理</text>
+  <text x="80" y="140" font-size="20" fill="#8A8A8A">Built-in guardrails. When a real person is at risk, the dharma talk stops.</text>
+
+  <!-- decision fork -->
+  <circle cx="180" cy="380" r="14" fill="#111111"/>
+  <text x="180" y="340" font-size="20" font-weight="700" fill="#111111" text-anchor="middle">收到问题</text>
+
+  <!-- branch up: crisis -->
+  <line x1="194" y1="372" x2="470" y2="250" stroke="#2F6BFF" stroke-width="2.5"/>
+  <rect x="470" y="200" width="640" height="110" rx="12" fill="#F4F8FF" stroke="#2F6BFF" stroke-width="2"/>
+  <text x="500" y="248" font-size="22" font-weight="700" fill="#2F6BFF">危机信号</text>
+  <text x="500" y="284" font-size="17" fill="#333333">自杀 · 自伤 · 重度抑郁 · 虐待 →  放下佛腔，平实关切，建议求助专业与热线</text>
+
+  <!-- branch mid: normal -->
+  <line x1="196" y1="380" x2="470" y2="380" stroke="#2F6BFF" stroke-width="2.5"/>
+  <rect x="470" y="330" width="640" height="100" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="2"/>
+  <text x="500" y="374" font-size="22" font-weight="700" fill="#111111">寻常困惑</text>
+  <text x="500" y="408" font-size="17" fill="#555555">情绪 · 决策 · 人际 · 抽象概念 →  佛眼四问，正常开解</text>
+
+  <!-- branch down: out of scope -->
+  <line x1="194" y1="388" x2="470" y2="510" stroke="#8A8A8A" stroke-width="2.5"/>
+  <rect x="470" y="460" width="640" height="110" rx="12" fill="#FAFAFA" stroke="#D8D8D8" stroke-width="2"/>
+  <text x="500" y="508" font-size="22" font-weight="700" fill="#8A8A8A">越界区</text>
+  <text x="500" y="544" font-size="17" fill="#8A8A8A">医疗/法律/财务决定 · 传教劝皈依 · 算命恐吓 →  点明边界，不越俎代庖</text>
+
+  <text x="80" y="632" font-size="19" fill="#111111">佛学解释<tspan fill="#2F6BFF" font-weight="700">「如何看待」</tspan>很强，解释<tspan font-weight="700">「客观机制」</tspan>很弱——绝不用禅意糊弄事实。</text>
+</svg>

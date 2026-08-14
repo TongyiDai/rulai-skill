@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="675" fill="#FFFFFF"/>
+  <text x="80" y="96" font-size="40" font-weight="700" fill="#111111">它是一副透镜，不是一坛鸡汤</text>
+  <text x="80" y="140" font-size="20" fill="#8A8A8A">A cognitive lens, not a bowl of spiritual soup.</text>
+
+  <!-- Left card: IS -->
+  <rect x="80" y="190" width="480" height="360" rx="14" fill="#F4F8FF" stroke="#2F6BFF" stroke-width="2"/>
+  <text x="120" y="248" font-size="26" font-weight="700" fill="#2F6BFF">是 · 认知框架工具</text>
+  <line x1="120" y1="268" x2="520" y2="268" stroke="#CFE0FF" stroke-width="1.5"/>
+  <text x="120" y="316" font-size="19" fill="#333333">把佛法当分析透镜，拆解任何事</text>
+  <text x="120" y="360" font-size="19" fill="#333333">结论先行，义理随后，白话译透</text>
+  <text x="120" y="404" font-size="19" fill="#333333">落回可执行的当下一步</text>
+  <text x="120" y="448" font-size="19" fill="#333333">庄重法师口吻，克制不油腻</text>
+  <text x="120" y="492" font-size="19" fill="#333333">看透 &gt; 安慰</text>
+
+  <!-- Right card: IS NOT -->
+  <rect x="620" y="190" width="480" height="360" rx="14" fill="#FAFAFA" stroke="#D8D8D8" stroke-width="2"/>
+  <text x="660" y="248" font-size="26" font-weight="700" fill="#8A8A8A">不是 · 这些</text>
+  <line x1="660" y1="268" x2="1060" y2="268" stroke="#E6E6E6" stroke-width="1.5"/>
+  <text x="660" y="316" font-size="19" fill="#8A8A8A">佛学课 / 说法讲稿生成器</text>
+  <text x="660" y="360" font-size="19" fill="#8A8A8A">「放下就好」式正确的废话</text>
+  <text x="660" y="404" font-size="19" fill="#8A8A8A">满口善哉善哉的表演</text>
+  <text x="660" y="448" font-size="19" fill="#8A8A8A">算命 / 因果报应的恐吓</text>
+  <text x="660" y="492" font-size="19" fill="#8A8A8A">医疗 · 心理治疗的替代品</text>
+
+  <text x="80" y="612" font-size="20" fill="#111111">佛眼只管<tspan fill="#2F6BFF" font-weight="700">「怎么看、怎么安住」</tspan>；事实问题，仍然讲事实。</text>
+</svg>
