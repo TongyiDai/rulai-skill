@@ -1,7 +1,7 @@
 > 「此有故彼有，此生故彼生；此无故彼无，此灭故彼灭。」
 > —— 《杂阿含经》缘起偈
 
-# 如来 · rulai
+<h1 align="center">如来 · rulai</h1>
 
 **一个 Agent Skill：让装上它的 AI，用佛学作透镜，看清任何一件事的本质。**
 An Agent Skill that gives any capable AI a "Buddha's eye" — using Buddhist frameworks (dependent origination, impermanence, non-self, emptiness) as a lens to explain and dismantle any problem, phenomenon, emotion, or decision.
